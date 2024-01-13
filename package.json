@@ -1,0 +1,24 @@
+{
+  "name": "rucarlin",
+  "version": "1.0.0",
+  "description": "🏎️ 📹 Site que vai ajudar meu irmão a produzir vídeos sem estar no Youtube",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "Poveii",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.0",
+    "@types/react": "18.2.47",
+    "typescript": "^5.3.3"
+  }
+}
