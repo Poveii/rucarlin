@@ -12,7 +12,7 @@ export default function Home() {
 
       <div className="flex items-center gap-2">
         <Image src={youtubeLogo} alt="" />
-        <a 
+        <a
           href="https://www.youtube.com/@rucarlinroblox"
           className="font-semibold underline"
         >
@@ -22,7 +22,7 @@ export default function Home() {
 
       <div className="flex items-center gap-2">
         <Image src={tiktokLogo} alt="" className="w-6" />
-        <a 
+        <a
           href="https://www.tiktok.com/@rucarlin/"
           className="font-semibold underline"
         >
