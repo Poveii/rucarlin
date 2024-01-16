@@ -6,9 +6,9 @@ import tiktokLogo from './assets/tiktokLogo.svg'
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center h-screen">
-      <Image src={logo} alt="" className="w-64 h-64 mb-1 rounded-3xl" />
-      <h1 className="text-3xl mb-2">Site em construção!</h1>
+    <div className="flex h-screen flex-col items-center justify-center">
+      <Image src={logo} alt="" className="mb-1 h-64 w-64 rounded-3xl" />
+      <h1 className="mb-2 text-3xl">Site em construção!</h1>
 
       <div className="flex items-center gap-2">
         <Image src={youtubeLogo} alt="" />
